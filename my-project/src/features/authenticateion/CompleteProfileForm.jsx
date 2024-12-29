@@ -26,9 +26,9 @@ function CompleteProfileForm() {
   });
 
   const{user}=useUser()
-  useEffect(()=>{
-if(user) naviget("/",{replace:true})
-  },[user])
+//   useEffect(()=>{
+// if(user) naviget("/",{replace:true})
+//   },[user])
 
 
   const onSubmit = async (data) => {
