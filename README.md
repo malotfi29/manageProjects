@@ -22,3 +22,5 @@ npm i
 ```
 6. run backend and application with ```npm run dev```
 ## Screen shots
+![img2](https://github.com/user-attachments/assets/e4495001-70ad-4f48-a315-2fe985eb998b)
+![img3](https://github.com/user-attachments/assets/3fa0907c-5c60-44b5-9aee-bbb1cf53e8b2)
